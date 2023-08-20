@@ -142,7 +142,7 @@ h2 {
     position: relative;
     display: flex;
     top: 101px;
-    background: url(img-locations-background.jpg) no-repeat center;
+    background: URL(./img-locations-background.jpg) no-repeat center;
     background: cover;
     height: 500px;
     align-items: center;
