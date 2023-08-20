@@ -66,10 +66,6 @@ nav li {
 .banner {
     background-color: black;
     width: 100%;
-    /* align-items: center;
-    justify-content: center; */
-    /* display: flex; */
-    /* flex-direction: column; */
     opacity: 0.8;
 }
 
@@ -146,7 +142,7 @@ h2 {
     position: relative;
     display: flex;
     top: 101px;
-    background: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg?_gl=1*1de0xbc*_ga*OTY1MDkyNTQ2OC4xNjcxODA5MzY3*_ga_3LRZM6TM9L*MTY5MjQ1NzAyNC43OS4xLjE2OTI0NTcwNjAuMjQuMC4w") no-repeat center;
+    background: url(img-locations-background.jpg) no-repeat center;
     background: cover;
     height: 500px;
     align-items: center;
