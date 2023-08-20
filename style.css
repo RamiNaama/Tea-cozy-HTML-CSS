@@ -54,7 +54,6 @@ nav li {
 .mission {
     position: relative;
     background: URL(./img-mission-background.jpg) no-repeat center;
-    background: cover;
     align-items: center;
     display: flex;
     justify-content: center;
@@ -143,7 +142,6 @@ h2 {
     display: flex;
     top: 101px;
     background: URL(./img-locations-background.jpg) no-repeat center;
-    background: cover;
     height: 500px;
     align-items: center;
     justify-content: center;
